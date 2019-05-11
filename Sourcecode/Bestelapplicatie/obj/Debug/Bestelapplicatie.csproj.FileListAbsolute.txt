@@ -1,0 +1,21 @@
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Inloggen.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Hoofdscherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Properties.Resources.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.BedrijfScherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.BestelScherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.BoekScherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.KlantScherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.Loggingscherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.MedewerkerScherm.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.Overzicht_groot.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.Schermen.Overzicht_klein.resources
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.csproj.GenerateResource.Cache
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\bin\Debug\Bestelapplicatie.exe.config
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\bin\Debug\Bestelapplicatie.exe
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\bin\Debug\Bestelapplicatie.pdb
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.exe
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.pdb
+C:\Users\Giovanni\Documents\Visual Studio 2015\Projects\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.csprojResolveAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Bestelapplicatie\Bestelapplicatie\bin\Debug\Bestelapplicatie.exe.config
+C:\Users\Giovanni\Desktop\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.exe
+C:\Users\Giovanni\Desktop\Bestelapplicatie\Bestelapplicatie\obj\Debug\Bestelapplicatie.pdb
